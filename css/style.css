@@ -1,0 +1,27 @@
+#logo {
+    font-size: 24px;
+    text-decoration: none;
+}
+#banner {
+    min-height: fit-content;
+}
+#name {
+    font-size: 32px;
+    color: #7a7a7a;
+}
+.secondary-button {
+    background-color: transparent;
+    color: #1a1a1a;
+    border: 2px solid #d3d3d3;
+}
+.card {
+    border: 1px solid #d3d3d3;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+}
+.blog-image {
+    aspect-ratio: 4/3;
+    max-width: 650px;
+}
